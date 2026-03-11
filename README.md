@@ -32,6 +32,4 @@ How It Works
 - GitHub: https://github.com/harish-20cs022
 - LinkedIn: Add your LinkedIn profile link here
 
-## ⭐ Support
 
-If you like this project, feel free to give it a ⭐ on GitHub!
